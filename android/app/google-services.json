@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147832977393",
+    "project_id": "barmejapp",
+    "storage_bucket": "barmejapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147832977393:android:376dbbd5de492cf59b7650",
+        "android_client_info": {
+          "package_name": "com.example.brmg_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUduIbK70aoq93hbyrxTwfduHfns5x8js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
